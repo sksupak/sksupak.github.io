@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Professional Site for Stacy Supak
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Stacy Supak
+  avatar: /Users/sksupak/Documents/Professional/HeadShots/26355514582_aa0d3746b9_o.jpg
+  bio: I am a Teaching Assistant Professor
+  email: sksupak@ncsu.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
